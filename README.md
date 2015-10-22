@@ -37,5 +37,5 @@ The treatments table contains the same data as the treatment polygons but it inc
 LTAP surveys are used to assess the condition of all the public streets in WVC.  Photos are included of each street (1 per street at this point).  In the future request LTAP to enable GPS data on cameras so photos can be plotted as points on map.
 
 +  Join the LTAP data on the Photo #.  This is accomplished by working with the street centerline shapefile they return to WVC.  
-+  Create a field for the hyperlink to the photos and enable hyperlinks.  Possible to host through ArcGIS Online but difficult to work with.  Better to host somewhere online.
++  Create a field for the hyperlink to the photos and enable hyperlinks.  Possible to host through ArcGIS Online but difficult to work with.  Currently pictures are being hosted on internal server.
 
