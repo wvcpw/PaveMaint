@@ -5,11 +5,10 @@
 +  Pavement Polygons
 +  Treatment Polygons
 +  Treatments Table
-+  Bids Table
 +  LTAP Table  
 
 ###Pavement Polygons
-The pavement polygons were created by Erik Brondum by tracing subdivision plans.  It needs to be updated continually as new construction happens.  Current as of 2014?
+The pavement polygons were created by Erik Brondum by tracing subdivision plans.  It needs to be updated continually as new construction happens.  Current as of 2016.
 
 +  Split @ intersections
 +  Split @ subdivision boundaries
